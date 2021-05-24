@@ -7,13 +7,13 @@
         {
             "name": "Vasile Bodarev",
             "email": "schopenhauer07@gmail.com",
-            "role": "Developer"
+            "homepage": "https://vasilebodarev.work"
         }
     ],
     "keywords": ["thumbnail", "thumb", "GD", "ImageMagick", "image", "magic"],
     "homepage": "http://phpthumb.sourceforge.net/",
     "require": {
-        "php": ">=7.3.0"
+        "php": "^7.2"
     },
     "suggest": {
         "ext-gd": "PHP GD library",
