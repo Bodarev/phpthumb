@@ -23,5 +23,6 @@
         "files": [
             "phpthumb.class.php"
         ]
-    }
+    },
+    "minimum-stability": "dev",
 }
